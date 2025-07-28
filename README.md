@@ -2,4 +2,4 @@
 
 **Student Name:** Neha neha
 **Student Number:** 042240272  
-**Static Site Generator Used:** VitePress  
+**Static Site Generator:** VitePress  
